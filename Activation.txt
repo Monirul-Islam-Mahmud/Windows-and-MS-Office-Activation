@@ -1,0 +1,7 @@
+***
+On Windows 10/11, right click on windows start menu, select PowerShell or Terminal.
+Copy-paste the below code and press enter
+irm https://massgrave.dev/get | iex
+
+You will see the activation options, follow onscreen instructions.
+That’s all.
